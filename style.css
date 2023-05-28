@@ -1,0 +1,11 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+
+.priv-link{
+    text-align: none;
+    font-weight: bold;
+}
